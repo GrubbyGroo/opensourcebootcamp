@@ -9,7 +9,7 @@ If you're are the frustrated individual that is ready to throw in the towel you'
 The purpose of creating the Opensource Bootcamp was to set out a very specific goal with an outlined curriculum. A curriculum that is well written, easy to follow yet challenging.
 
 ## The Analogy
-Software is harmless yet it can do a lot of damage is used incorrectly. Learning industry practices and standards are so important. 
+Software is harmless yet it can do a lot of damage is used incorrectly. Learning industry standards are very important. 
 
 This is the reason driver's license are issued in several countries to those who drive vehicles. Driving a car is almost a necessity in some parts of the world. Learning the rules of the road when operating a vehicle is important. Having more than one individual on the road operating a piece of machinery that weighs over 2,000lbs (453kg) can be dangerous if everyone is not following the same rules.
 
