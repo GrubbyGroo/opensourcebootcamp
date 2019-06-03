@@ -60,3 +60,4 @@ Regardless of the operating system you're on rest assure that you'll be able to 
    1. If you're on Mac OS but prefer to run Windows OS on your Mac, you can use this curriculum to prepare your Mac OS for Windows OS Development.
    1. You can follow the Windows OS Curriculum there after.
 1. Ubuntu Linux - Yes! You can know learn the Microsoft Development Platform on Linux. Follow this curriculum to prepare your machine for development.
+   1. If you're on Linux but prefer to run Windows OS on your Linux Machine, you can use this curriculum to prepare your Linux OS for Windows OS Development.
