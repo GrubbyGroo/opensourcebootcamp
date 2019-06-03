@@ -53,3 +53,10 @@ The agenda will be broken up into sprints. A sprint is a representation of start
    1. CSS - Cascading Style Sheets is another of the three main web technologies used for styling information displayed by HTML on the browser.
    1. JavaScript - The last of the three main web technologies used for user interaction with the data displayed on the browser using HTML.
    1. These three technologies are the cornerstone of web development.
+## Your Operating System
+Regardless of the operating system you're on rest assure that you'll be able to learn about full stack development!
+1. Windows OS - Follow this curriculum to prepare your system for learning
+1. Mac OS - Follow this curriculum to prepare your system for learning
+   1. If you're on Mac OS but prefer to run Windows OS on your Mac, you can use this curriculum to prepare your Mac OS for Windows OS Development.
+   1. You can follow the Windows OS Curriculum there after.
+1. Ubuntu Linux - Yes! You can know learn the Microsoft Development Platform on Linux. Follow this curriculum to prepare your machine for development.
