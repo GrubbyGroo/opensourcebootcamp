@@ -6,7 +6,7 @@ There are many methods of learning software development that are "free". Some ar
 
 If you're are the frustrated individual that is ready to throw in the towel you've come to the right place! Keep reading because you won't regret it. However, if you're the individual who is just getting started then you have saved yourself countless hours of aimless searching and scattered learning.
 
-The purpose of creating the Opensource Bootcamp was to set out a very specific goal with an outlined curriculum. A curriculum that is well written, easy to follow yet challenging.
+The purpose of creating the Opensource Bootcamp was to set out a very specific goal with an outlined curriculum. A curriculum that is well written, easy to follow yet challenging. It's a straight and narrow road to becoming a full-stack web developer!
 
 ## The Analogy
 Software is harmless yet it can do a lot of damage is used incorrectly. Learning industry standards are very important. 
@@ -18,3 +18,11 @@ Another analogy is learning how to shoot a gun. This is a far fetched analogy bu
 If military personnel where you are asked to shoot and hit a target without proper guidance and training you can imagine the koas that would ensue within. I don't think I've ever heard a story where military personnel have been given a gun and asked to figure out how to shoot the weapon let alone hit a target. In fact, I heard otherwise. Military personnel are trained not only to shoot a weapon but also to disassemble it, clean it, reassemble it and secure it for safety.
 
 Thankfully we're not dealing with anything as dangerous. However, if you're looking to improve your career or change your line of work in the most efficient manner getting the proper guidance is of most importance.
+
+## What you will learn
+In short, you'll learn to create websites! Not just any type of website but one that is responsive to any type of device. Your website will display on a desktop, laptop, tablet or mobile phone device. Hard to believe? I know. 
+
+Why stop there? Not only will you learn to write code that controls the flow of the logic on the browser but also on the web server and the database! Did I say database? Where else would you store the data you want to save?
+
+Let's look at the stack you'll be learning about:
+
