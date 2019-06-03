@@ -44,3 +44,12 @@ The agenda will be broken up into sprints. A sprint is a representation of start
    1. Databases need to be accessible from anywhere.
    1. Databases have efficient tools. Learning how to use the tools is critical to getting the job done.
 1. C# - [What is C#?](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) (pronounced C sharp) It is a general-purpose, multi-paradigm programming language encompassing strong typing, lexically scoped, imperative, declarative, functional, generic, object-oriented (class-based), and component-oriented programming disciplines.
+   1. Web page needs to be hosted on a web server.
+   1. Web pages require programming logic.
+   1. Web pages need to be accessible from any internet device.
+   1. Just like SQL Server, C# has tools that are just as efficient for creating web content.
+1. Web Development - [What is Web Development?](https://en.wikipedia.org/wiki/Web_development_tools) Web development allows developers to create web content with a variety of web technologies, including HTML, CSS, the DOM, JavaScript, and other components that are handled by the web browser.
+   1. HTML - Hypertext Markup Language is of three main web technologies for creating content to view on a browser.
+   1. CSS - Cascading Style Sheets is another of the three main web technologies for styling information displayed by HTML on the browser.
+   1. JavaScript - The last of the three main web technologies used for user interaction with the data displayed using HTML.
+   1. These three technologies are the cornerstone of web development.
