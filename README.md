@@ -34,7 +34,13 @@ The first step is yours. You need to want to learn. The internet is riddled with
 The agenda will be broken up into sprints. A sprint is a representation of starting a task and not finishing it until you have completed it. Sprints are short burst of learning. A sprint can be 1 hour and up to 4 hours. It's going to be up to you to find the time to complete the sprint. You'll know ahead of time the length of the sprint. Just keep in mind that once you start a sprint it's important you finish it.
 
 ## The Agenda
-1. Git - [What is Git?](https://www.atlassian.com/git/tutorials/what-is-git) It is the most widely used modern version control system in the world today
+1. Git - [What is Git?](https://www.atlassian.com/git/tutorials/what-is-git) It is the most widely used modern version control system in the world today.
    1. Being able to save your is important.
    1. Being able to save the history of the changes in your code is even more important.
+   1. Learning Git is continuous. Throughout the course you'll learn more and more about Git and it's uses.
 1. Microsoft SQL Server - [What is SQL Server?](https://en.wikipedia.org/wiki/Microsoft_SQL_Server) It is a software product with the primary function of storing and retrieving data as requested by other software applications—which may run either on the same computer or on another computer across a network (including the Internet).
+   1. Websites need to gather data. You may need to store user accounts, profile information or any other type of data. Storing it somewhere safe and secure is important.
+   1. Databases need to be reliable and highly available.
+   1. Databases need to be accessible from anywhere.
+   1. Databases have efficient tools. Learning how to use the tools is critical to getting the job done.
+1. C# - [What is C#?](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) (pronounced C sharp) It is a general-purpose, multi-paradigm programming language encompassing strong typing, lexically scoped, imperative, declarative, functional, generic, object-oriented (class-based), and component-oriented programming disciplines.
