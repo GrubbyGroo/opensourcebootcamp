@@ -26,3 +26,4 @@ Why stop there? Not only will you learn to write code that controls the flow of 
 
 Let's look at the stack you'll be learning about:
 
+![Full Stack Diagram](/fullstackdiagram.jpg)
