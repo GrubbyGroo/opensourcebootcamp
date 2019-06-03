@@ -32,3 +32,9 @@ Let's look at the stack you'll be learning about:
 The first step is yours. You need to want to learn. The internet is riddled with educational material. However, being riddled doesn't mean it's easy to follow. The material you find here is very specific to being able to write your first website. 
 
 The agenda will be broken up into sprints. A sprint is a representation of starting a task and not finishing it until you have completed it. Sprints are short burst of learning. A sprint can be 1 hour and up to 4 hours. It's going to be up to you to find the time to complete the sprint. You'll know ahead of time the length of the sprint. Just keep in mind that once you start a sprint it's important you finish it.
+
+## The Agenda
+1. Git - [What is Git?](https://www.atlassian.com/git/tutorials/what-is-git) It is the most widely used modern version control system in the world today
+   1. Being able to save your is important.
+   1. Being able to save the history of the changes in your code is even more important.
+1. Microsoft SQL Server - [What is SQL Server?](https://en.wikipedia.org/wiki/Microsoft_SQL_Server) It is a software product with the primary function of storing and retrieving data as requested by other software applications—which may run either on the same computer or on another computer across a network (including the Internet).
