@@ -19,6 +19,7 @@ This recipe will guide you to commit your changes and push them up to Github.
    1. Tracked files should appear in green
 1. Commit the changes
    1. Type: `git commit -m "<insert a comment here>"`
+   1. Make sure you include your comment in double quotes
    1. Always make sure that the comment makes sense
    1. All comments should relate to what is being checked in
 1. Once again, check the status
