@@ -1,6 +1,6 @@
 # Preparing Your Windows OS for Development
 ## Installing Git on Your Machine
-You can follow along with the steps listed below or you can also follow along with the video I created on YouTube.
+You can follow along with the steps listed below or you can also follow along with the video I created on [YouTube](https://www.youtube.com/watch?v=9vGEInAqHZs).
 1. Open your favorite browser along with your favorite search engine
 1. Search for "git download"
    1. Click on the "Go to download" link
