@@ -15,6 +15,6 @@ If you do not have the repo locally on your machine follow these steps:
    1. Type: git pull
 1. Create & checkout the branch all in one command
    1. Type: git checkout -b `<first.last/feature_name>`
-   1. e.g. git checkout victor.campos/login
+   1. ~e.g.~ git checkout victor.campos/login
 
 Enjoy coding on your new branch!
