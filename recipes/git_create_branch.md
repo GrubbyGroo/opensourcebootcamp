@@ -1,4 +1,4 @@
-#Creating Branch
+# Creating Branch
 Make sure you're in the terminal when running these commands.
 
 ## Clone
