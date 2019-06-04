@@ -2,7 +2,7 @@
 Make sure you're in the terminal when running these commands.
 
 ## Clone
-Note: The clone command is only ran once to copy the repo to your local machine. Skip this section if you have already cloned the repo.
+**Note:** The clone command is only ran once to copy the repo to your local machine. Skip this section if you have already cloned the repo.
 
 If you do not have the repo locally on your machine follow these steps:
 1. In the terminal, change into the directory where you want to create the folder for the repo
