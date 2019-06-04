@@ -30,4 +30,4 @@ This recipe will guide you to commit your changes and push them up to Github.
    1. Make sure that HEAD is all caps
    1. This will instruct Github to create the branch on the server during the push
 
-That's all! You're now ready to continue working on the current branch. If the feature is complete make sure you create a new branch before starting development on the next feature.
+That's all! You're now ready to continue working on the current branch. If the feature is complete make sure you [create a new branch](git_create_branch.md) before starting development on the next feature.
