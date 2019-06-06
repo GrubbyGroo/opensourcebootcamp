@@ -1,6 +1,6 @@
 # Preparing Your Windows OS for Development
 ## Installing Git on Your Machine
-You can follow along with the steps listed below or you can also follow along with the video I created on [YouTube](https://www.youtube.com/watch?v=9vGEInAqHZs).
+You can follow along with the steps listed below or you can also follow along with the video I created on [YouTube](https://youtu.be/9vGEInAqHZs).
 1. Open your favorite browser along with your favorite search engine
 1. Search for "git download"
    1. Click on the "Go to download" link
@@ -55,3 +55,33 @@ You can follow along with the steps listed below or you can also follow along wi
 1. Once the install is complete
    1. Select the option "Launch Git Bash"
    1. Unselect "View Release Notes"
+
+Once you have Git installed on your machine continue with the following lectures and return here for the challenge after learning a little about Git Source Control.
+
+## Creating an account on https://www.github.com
+1. You can watch this on creating an account on Github
+   1. https://youtu.be/cxDC8_cYdl4
+
+## Git Workflow
+In this lecture you will learn about Git and it's workflow.
+
+1. Clone
+1. Branching
+1. Committing your changes
+1. Pushing to Github
+1. Performing a Pull-Request
+1. Pull changes from Github
+1. You can watch the lecture to learn more about the workflow
+   1. https://youtu.be/BwzsmcFHDGw
+   
+## The Challenge
+Once you have completed the lecture take some time to complete the following challenges:
+
+1. Create a repo on Github called `datascripts`
+1. Add a ReadMe file
+1. Make it private
+1. Clone it to your machine
+1. Modify the ReadMe file
+   1. Make sure you follow the proper workflow prior to modifying
+
+You'll need this repository to move on to the next lecture. Good luck!
