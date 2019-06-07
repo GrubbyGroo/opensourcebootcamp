@@ -1,4 +1,5 @@
 # Preparing Your Windows OS for Development
+** Sprint #1 **
 ## Installing Git on Your Machine
 You can follow along with the steps listed below or you can also follow along with the video I created on [YouTube](https://youtu.be/9vGEInAqHZs).
 1. Open your favorite browser along with your favorite search engine
