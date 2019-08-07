@@ -83,9 +83,9 @@ Once you have completed the lecture take some time to complete the following cha
 1. Make it private
 1. Clone it to your machine
 1. Modify the ReadMe file
-   1. Make sure you follow the proper workflow prior to 
+   1. Make sure you follow the proper workflow as demo'd in the video
    
-You goal is to try to accomplish this from memory. Try not to follow the video again. Instead browse the [Git Cheat Sheet](cheatsheets/git.md) and [Terminal Cheat Sheet](cheatsheets/terminal.md) to job your brain.
+You goal is to try to accomplish this from memory. Try not to follow the video again. Instead browse the [Git Cheat Sheet](cheatsheets/git.md) and [Terminal Cheat Sheet](cheatsheets/terminal.md) to jog your brain.
 
 Hints for Google Search:
 * how do I clone a repo in git
