@@ -16,7 +16,7 @@ The second half of the video on the link above continues on how to install SSMS
 
 ## Enable the SQL Server SA Account
 1. Login using your Windows Credentials
-![Windows Credentials](/windows/sqlserver_windowscredentials.png)
+   ![Windows Credentials](/windows/sqlserver_windowscredentials.png)
 1. Under "Object Explorer", expand "Security" and expand "Login"
 1. Towards the bottom of the node, right-click on the sa user and select "properties"
 1. Provide a password that you can remember and confirm it
