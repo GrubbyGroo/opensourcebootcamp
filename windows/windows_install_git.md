@@ -92,6 +92,8 @@ Hints for Google Search:
 * how do I push my changes to Github
 * how do I perform a pull request on Github
 
+You'll need this repository to move on to the next lecture. Good luck!
+
 ## Challenge #2
 Once you have completed the first challenge continue with white boarding. You can white board on an actual white board, a window with erasable markers, or a notepad (pen and paper).
 
@@ -108,5 +110,3 @@ Once you have completed the first challenge continue with white boarding. You ca
 * Push your changes to Github
 
 If you find yourself struggling feel free to review the videos as many times as you need to. The goal is to be able to complete the challenges without any help and strictly from memory.
-
-You'll need this repository to move on to the next lecture. Good luck!
