@@ -73,7 +73,7 @@ In this lecture you will learn about Git and it's workflow.
 1. You can watch the lecture to learn more about the workflow
    1. https://youtu.be/BwzsmcFHDGw
    
-## Challenge #1
+## Challenge No. 1
 Once you have completed the lecture take some time to complete the following challenges:
 
 1. Create a repo on Github called `datascripts`
@@ -94,7 +94,7 @@ Hints for Google Search:
 
 You'll need this repository to move on to the next lecture. Good luck!
 
-## Challenge #2
+## Challenge No. 2
 Once you have completed the first challenge continue with white boarding. You can white board on an actual white board, a window with erasable markers, or a notepad (pen and paper).
 
 ### The importance of being able to white board:
