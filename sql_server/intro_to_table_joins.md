@@ -11,7 +11,7 @@ Create a `Phone` table with the following structure:
 | AreaCode | Character | 3 | No |  | |
 | Prefix | Character | 3 | No |   |  |
 | Number | Character | 4 | No |   |  |
-| Extension | Variable Character | 10 | No |   |  |
+| Extension | Variable Character | 10 | Yes |   |  |
 | Type | Variable Character | 25 | No |   |  |
 | CreatedDate | DateTime |  | No |   |  |
 | ModifiedDate | DateTime |  | No |   |  |
