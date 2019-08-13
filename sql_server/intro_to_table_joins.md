@@ -7,5 +7,11 @@ Create a `Phone` table with the following structure:
 | Column Name | Data Type | Length | Primary Key | Identity Seed |
 | ----------- | --------- | ------ | ----------- | ------------- |
 | Id | Numeric | N/A | Yes | Yes |
-| PersonId | Numeric | N/A | No | No |
+| PersonId | Numeric |  |   |   |
 | AreaCode | Character | 3 | | |
+| Prefix | Character | 3 |  |  |
+| Number | Character | 4 |  |  |
+| Extension | Variable Character | 10 |  |  |
+| Type | Variable Character | 25 |  |  |
+| CreatedDate | DateTime |  |  |  |
+| ModifiedDate | DateTime |  |  |  |
