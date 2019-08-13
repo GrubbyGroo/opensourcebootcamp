@@ -5,4 +5,4 @@
 
 **Sprint #2 (Approx. 2 hours)**
 1. [Intro to Relational Database Management Systems](https://youtu.be/hvJa6wEgUEI)
-1. [Intro to Database Programming](https://github.com/dysfunctionaldeveloper/opensourcebootcamp/blob/master/sql_server/intro_to_db_programming)
+1. [Intro to Database Programming](https://github.com/dysfunctionaldeveloper/opensourcebootcamp/blob/master/sql_server/intro_to_db_programming.md)
