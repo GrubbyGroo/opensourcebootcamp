@@ -18,3 +18,5 @@ Create a `Phone` table with the following structure:
 
 Hints:
 * Review the [SQL Server Programming](https://www.youtube.com/watch?v=Av3JBPDg524&t=730) video
+
+Once you have completed the challenge you can move on to watch and following along with the video titled [SQL Server Table Joins](#).
