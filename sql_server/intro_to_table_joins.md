@@ -2,8 +2,7 @@
 In this lecture we're goign to start off with a challenge. Complete the Challenge before moving on to the video. You won't be able to complete the exercises in the video if you don't complete the challenge.
 
 ## Challenge No. 1
-Create a table with the following structure:
-Name: Phone
+Create a `Phone` table with the following structure:
 
 | Column Name | Data Type | Length | Primary Key | Identity Seed |
 | ----------- | --------- | ------ | ----------- | ------------- |
