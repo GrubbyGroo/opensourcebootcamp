@@ -45,13 +45,14 @@ Create an `Address` table with the following structure:
 | CreatedDate | DateTime |   | No |   |   |
 | ModifiedDate | DateTime |   | No |   |   |
 
+Hint:
+* Review the [SQL Server Programming](https://www.youtube.com/watch?v=Av3JBPDg524&t=730) video
+
 ## Challenge No. 3
 Alter the `Address` table and add a Foreign Key Contraint to the `Person` table just like we did in the [Foreign Key Constraints](#) video.
 
-Hints:
+Hint:
 * Review the [Foreign Key Constraints](#) Video
-* Review the [SQL Server Programming](https://www.youtube.com/watch?v=Av3JBPDg524&t=730) video
-
 
 ## Challenge No. 4
 Write `SELECT` Statements with a `JOIN` to display several rows of data containing information from the `Person` and `Address` tables.
