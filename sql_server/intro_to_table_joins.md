@@ -16,7 +16,7 @@ Create a `Phone` table with the following structure:
 | CreatedDate | DateTime |  | No |   |  |
 | ModifiedDate | DateTime |  | No |   |  |
 
-Hints:
+Hint:
 * Review the [SQL Server Programming](https://www.youtube.com/watch?v=Av3JBPDg524&t=730) video
 
 ## Foreign Key Constraints
@@ -44,3 +44,22 @@ Create an `Address` table with the following structure:
 | Plus4 | Character | 4 | Yes |   |  |
 | CreatedDate | DateTime |   | No |   |   |
 | ModifiedDate | DateTime |   | No |   |   |
+
+## Challenge No. 3
+Alter the `Address` table and add a Foreign Key Contraint to the `Person` table just like we did in the [Foreign Key Constraints](#) video.
+
+Hints:
+* Review the [Foreign Key Constraints](#) Video
+* Review the [SQL Server Programming](https://www.youtube.com/watch?v=Av3JBPDg524&t=730) video
+
+
+## Challenge No. 4
+Write `SELECT` Statements with a `JOIN` to display several rows of data containing information from the `Person` and `Address` tables.
+
+Hint:
+* Review the [SQL Server Table Joins](#) video
+
+## Challenge No. 5
+Whiteboard all the SQL Statements you created in either SSMS or Azure Data Studio.
+1. Your goal is to them from memory
+1. Pick at the code on the screen only momentarily to refresh your mind
