@@ -1,5 +1,5 @@
 ## Intro To Database Programming
-This lecture is found on [YouTube](https://youtube.com). Watch the video and come back for the challenges.
+This lecture is found on [YouTube](https://youtu.be/Av3JBPDg524). Watch the video and come back for the challenges.
 1. Watch and follow along with the 1 hour lecture
 
 ## Challenge #1
