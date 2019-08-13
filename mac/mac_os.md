@@ -1,4 +1,4 @@
-# Preparing Your Mac OS for Development
+# Sprints for Mac OS for Development
 **Sprint #1 (Approx. 2 hours)**
 1. [Installing Git on your machine](https://www.atlassian.com/git/tutorials/install-git)
    1. After you complete the installation follow along with the video I created for Windows on [YouTube](https://youtu.be/9vGEInAqHZs). This video contains important information about the Git Flow for cloning, branching, committing and merging.
