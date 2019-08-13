@@ -15,3 +15,6 @@ Create a `Phone` table with the following structure:
 | Type | Variable Character | 25 | No |   |  |
 | CreatedDate | DateTime |  | No |   |  |
 | ModifiedDate | DateTime |  | No |   |  |
+
+Hints:
+* Review the [SQL Server Programming](https://www.youtube.com/watch?v=Av3JBPDg524&t=730) video
