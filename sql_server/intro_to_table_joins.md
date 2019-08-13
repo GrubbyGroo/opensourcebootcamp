@@ -5,6 +5,7 @@ In this lecture we're goign to start off with a challenge. Complete the Challeng
 Create a table with the following structure:
 Name: Phone
 
-Column Name | Data Type | Length | Primary Key | Identity Seed
-Id | Numeric | N/A | Yes | Yes
-PersonId | Numeric | N/A | No | No 
+| Column Name | Data Type | Length | Primary Key | Identity Seed |
+| ----------- | --------- | ------ | ----------- | ------------- |
+| Id | Numeric | N/A | Yes | Yes |
+| PersonId | Numeric | N/A | No | No | 
