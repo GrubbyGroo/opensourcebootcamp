@@ -4,14 +4,14 @@ In this lecture we're goign to start off with a challenge. Complete the Challeng
 ## Challenge No. 1
 Create a `Phone` table with the following structure:
 
-| Column Name | Data Type | Length | Primary Key | Identity Seed |
-| ----------- | --------- | ------ | ----------- | ------------- |
-| Id | Numeric | N/A | Yes | Yes |
-| PersonId | Numeric |  |   |   |
-| AreaCode | Character | 3 | | |
-| Prefix | Character | 3 |  |  |
-| Number | Character | 4 |  |  |
-| Extension | Variable Character | 10 |  |  |
-| Type | Variable Character | 25 |  |  |
-| CreatedDate | DateTime |  |  |  |
-| ModifiedDate | DateTime |  |  |  |
+| Column Name | Data Type | Length | Nullable | Primary Key | Identity Seed |
+| ----------- | --------- | ------ | -------- | ----------- | ------------- |
+| Id | Numeric |  | No | Yes | Yes |
+| PersonId | Numeric |  | No |    |   |
+| AreaCode | Character | 3 | No |  | |
+| Prefix | Character | 3 | No |   |  |
+| Number | Character | 4 | No |   |  |
+| Extension | Variable Character | 10 | No |   |  |
+| Type | Variable Character | 25 | No |   |  |
+| CreatedDate | DateTime |  | No |   |  |
+| ModifiedDate | DateTime |  | No |   |  |
