@@ -21,7 +21,7 @@ Hint:
 
 ## Foreign Key Constraints
 1. Watch the lecture on YouTube titled [Foreign Key Constraints](https://youtu.be/NcmbhIwpulE)
-1. Follow along and do the execises
+1. Follow along and do the exercises
 1. Complete this lecture before moving on (one lecture builds on top of another)
 
 ## Table Joins
@@ -55,12 +55,6 @@ Hint:
 * Review the [Foreign Key Constraints](https://youtu.be/NcmbhIwpulE) Video
 
 ## Challenge No. 4
-Write `SELECT` Statements with a `JOIN` to display several rows of data containing information from the `Person` and `Address` tables.
-
-Hint:
-* Review the [SQL Server Table Joins](https://www.youtube.com/watch?v=OqNirtQsz88) video
-
-## Challenge No. 5
 Whiteboard all the SQL Statements you created in either SSMS or Azure Data Studio.
-1. Your goal is to them from memory
-1. Pick at the code on the screen only momentarily to refresh your mind
+1. Your goal is to write them from memory
+1. Peek at the code on the screen only momentarily to refresh your mind
