@@ -1,5 +1,4 @@
 # Sprints for Windows OS for Development
-## Level 1 - SQL Server
 **Sprint #1 (Approx. 2 hours)**
 1. [Installing Git on your machine](windows_install_git.md)
 1. [Installing SQL Server on your machine](windows_install_sql_server.md)
