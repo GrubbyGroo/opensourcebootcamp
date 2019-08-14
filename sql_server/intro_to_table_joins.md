@@ -58,7 +58,7 @@ Hint:
 Write `SELECT` Statements with a `JOIN` to display several rows of data containing information from the `Person` and `Address` tables.
 
 Hint:
-* Review the [SQL Server Table Joins](#) video
+* Review the [SQL Server Table Joins](https://www.youtube.com/watch?v=OqNirtQsz88) video
 
 ## Challenge No. 5
 Whiteboard all the SQL Statements you created in either SSMS or Azure Data Studio.
