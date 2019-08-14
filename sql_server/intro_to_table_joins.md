@@ -20,7 +20,7 @@ Hint:
 * Review the [SQL Server Programming](https://www.youtube.com/watch?v=Av3JBPDg524&t=730) video
 
 ## Foreign Key Constraints
-1. Watch the lecture on YouTube titled [Foreign Key Constraints](#)
+1. Watch the lecture on YouTube titled [Foreign Key Constraints](https://youtu.be/NcmbhIwpulE)
 1. Follow along and do the execises
 1. Complete this lecture before moving on (one lecture builds on top of another)
 
@@ -49,10 +49,10 @@ Hint:
 * Review the [SQL Server Programming](https://www.youtube.com/watch?v=Av3JBPDg524&t=730) video
 
 ## Challenge No. 3
-Alter the `Address` table and add a Foreign Key Contraint to the `Person` table just like we did in the [Foreign Key Constraints](#) video.
+Alter the `Address` table and add a Foreign Key Contraint to the `Person` table just like we did in the [Foreign Key Constraints](https://youtu.be/NcmbhIwpulE) video.
 
 Hint:
-* Review the [Foreign Key Constraints](#) Video
+* Review the [Foreign Key Constraints](https://youtu.be/NcmbhIwpulE) Video
 
 ## Challenge No. 4
 Write `SELECT` Statements with a `JOIN` to display several rows of data containing information from the `Person` and `Address` tables.
