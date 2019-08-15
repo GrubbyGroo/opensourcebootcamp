@@ -12,8 +12,6 @@
 1. [Intro to SQL Server Table Joins](https://github.com/dysfunctionaldeveloper/opensourcebootcamp/blob/master/sql_server/intro_to_table_joins.md)
 
 **Sprint #4 (Approx. 2 Hours)**
-1. Intro to SQL Server Stored Procedures
-1. Create Stored Procedure
-1. Read Stored Procedure
-1. Update Stored Procedure
-1. Delete Stored Procedure
+1. [Intro to SQL Server Stored Procedures (cont.)](https://github.com/dysfunctionaldeveloper/opensourcebootcamp/blob/master/sql_server/intro_sql_stored_procs_continue.md)
+   1. Transaction
+   1. Exception Handling
