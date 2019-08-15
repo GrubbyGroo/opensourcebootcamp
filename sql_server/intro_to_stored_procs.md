@@ -15,7 +15,7 @@ Hint:
 * Review the [SQL Server Table Joins](https://www.youtube.com/watch?v=OqNirtQsz88&t=1414) video
 
 ## Stored Procedures
-1. Watch the lecture on YouTube title [SQL Server Stored Procedures](#)
+1. Watch the lecture on YouTube title [SQL Server Stored Procedures](https://youtu.be/jjwV507fV04)
 1. Follow along with the exercises
 1. Complete this lecture before moving on (one lecture builds on top of another)
 
