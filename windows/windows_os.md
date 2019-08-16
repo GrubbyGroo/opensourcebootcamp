@@ -18,5 +18,6 @@
    1. Exception Handling
 
 ## Installing Development Tools
+**Sprint #1 (Approx. 2 hours)**
 1. [Installing C#.NET](../csharp/installation_windows.md)
 2. [History of C#](../csharp/csharp_history.md)
