@@ -6,6 +6,9 @@ Import 25 address records using Random User API.
 
 Hint:
 * Review [SQL Server Table Join Video](https://www.youtube.com/watch?v=OqNirtQsz88&t=25)
+* Mac Users - You can also review [Bulk Import using Azure Data Studio](https://youtu.be/pKjB_ScRksY)
+* Windows Users - you can also review [Bulk Import using SSMS](https://youtu.be/Xyoszy-ZjbI)
+* You can choose which method to use for importing data into your table
 * Change the Query Parameter to include only location
 
 ## Challenge No. 2
