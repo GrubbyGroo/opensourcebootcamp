@@ -21,3 +21,16 @@
 **Sprint #1 (Approx. 2 hours)**
 1. [Installing C#.NET](../csharp/installation_windows.md)
 2. [History of C#](../csharp/csharp_history.md)
+
+## C# Programming Language Introduction
+**Sprint #2 (Approx. 2 hour)**
+1. [Intro to C#](../csharp/csharp_intro_windows.md)
+
+## C# Programming Language Flow Control
+**Sprint #2 (Approx. 2 hour)**
+1. [Boolean Logic](https://www.youtube.com/watch?v=scFvNHPrCeY)
+1. [Flow Control](#)
+
+1. [Advance Variables](#)
+1. [Functions](#)
+1. [Debugging and Error Handling](#)

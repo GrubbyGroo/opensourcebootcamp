@@ -11,8 +11,4 @@ Here are the resources you can use to install Visual Studio.NET on Windows
 
 ![VS.NET Install Options](VSNET_Install_Options.png)
 
-Once you have completed installing VS.NET on your Mac you will also need to install .NET Core v.2.2 Software Development Kit (SDK) for Mac. This will install the lastest language and framework features.
-
-Here are some resources to help with that.
-1. [Download and install](https://dotnet.microsoft.com/download/dotnet-core/2.2)
-1. Look for `macOS`, `.NET Core Installer: x64`
+As an alternative you can also watch the [video demo'ing the installation](https://youtu.be/HPVQRCTkJPo) if you prefer.
